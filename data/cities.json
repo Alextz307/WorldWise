@@ -1,0 +1,160 @@
+{
+  "cities": [
+    {
+      "cityName": "Benicassim",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T06:53:34.913Z",
+      "notes": "dwed",
+      "position": {
+        "lat": "40.05836611171505",
+        "lng": "0.03175735473632813"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T06:54:10.316Z",
+      "notes": "dwedw",
+      "position": {
+        "lat": "40.07032135005518",
+        "lng": "0.0020599365234375004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Vilafames",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:42:43.341Z",
+      "notes": "edw",
+      "position": {
+        "lat": "40.12507840718369",
+        "lng": "-0.03330230712890626"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Puebla Tornesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:44:08.884Z",
+      "notes": "dcdew",
+      "position": {
+        "lat": "40.09855890842781",
+        "lng": "0.015106201171875002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Valderrobres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:44:43.669Z",
+      "notes": "",
+      "position": {
+        "lat": "40.88444793903562",
+        "lng": "0.19088745117187503"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:47:23.073Z",
+      "notes": "cdds",
+      "position": {
+        "lat": "40.01144453463675",
+        "lng": "-0.004119873046875001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:49:36.801Z",
+      "notes": "",
+      "position": {
+        "lat": "40.07649521197062",
+        "lng": "-0.05184173583984376"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:49:36.801Z",
+      "notes": "dwe",
+      "position": {
+        "lat": "40.07649521197062",
+        "lng": "-0.05184173583984376"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Culla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T07:50:22.190Z",
+      "notes": "de",
+      "position": {
+        "lat": "40.282668644462895",
+        "lng": "-0.12084960937500001"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Benicassim",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-02T09:48:40.050Z",
+      "notes": "",
+      "position": {
+        "lat": "40.05521273221147",
+        "lng": "0.0025749206542968754"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-08T13:01:33.660Z",
+      "notes": "",
+      "position": {
+        "lat": "40.05468715477417",
+        "lng": "-0.03519058227539063"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Useras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-15T12:23:43.208Z",
+      "notes": "",
+      "position": {
+        "lat": "40.156310883032674",
+        "lng": "-0.166168212890625"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Sebes",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-08-15T12:29:41.802Z",
+      "notes": "",
+      "position": {
+        "lat": "45.95544616516134",
+        "lng": "23.569107055664066"
+      },
+      "id": 98443217
+    }
+  ]
+}
