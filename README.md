@@ -35,7 +35,7 @@ To get started with WorldWise, follow these steps:
     npm run dev
     ```
 
-    Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
+    Now you should be able to access the application via the URL provided in the terminal output (probably http://localhost:5173).
 
 ## Usage
 
